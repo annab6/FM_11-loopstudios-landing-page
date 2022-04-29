@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid-S1Evu_KH5)
-- Live Site URL: [Add live site URL here](https://annab6.github.io/FM_11-loopstudios-landing-page/)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid-S1Evu_KH5](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid-S1Evu_KH5)
+- Live Site URL: [https://annab6.github.io/FM_11-loopstudios-landing-page/](https://annab6.github.io/FM_11-loopstudios-landing-page/)
 
 ## My process
 
